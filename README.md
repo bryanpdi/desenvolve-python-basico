@@ -1,4 +1,4 @@
 # desenvolve-python-basico
-Projeto Desenvolve - Itabira\n
+Projeto Desenvolve - Itabira
 Programação básica com Python
 PDI031
